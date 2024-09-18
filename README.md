@@ -5,8 +5,7 @@ Leitura de PDF e retirada de tabelas do arquivo
 
 Para atualizar o repositório Github, basta ter o Git instalado e seguir os seguintes passos:
 
-  0. Certifique que o repositório foi criado.
-  0.1. Acesse o repositório -> `git clone caminhodorepositorio`   
+  0. Certifique que o repositório foi criado. Acesse o repositório -> `git clone caminhodorepositorio`   
 
   1. Certifique-se que você está na branch desejada -> `git branch nomedabranch`
   2. Atualize a branch principal do projeto -> `git pull origin main`
