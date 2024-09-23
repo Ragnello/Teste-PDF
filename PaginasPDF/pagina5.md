@@ -1,3 +1,3 @@
-|Plataforma|Localização|Capacidade de Produção|Início de Operação|
+|FPSO|Localização|Capacidade de Produção|Tecnologias|
 |---|---|---|---|
-|FPSO Maria Quitéria|Campo de Jubarte, Bacia de Campos|100 Mbpd de óleo e 5 MMm³/d de gás natural|Último trimestre de 2024|
+|Maria Quitéria|Campo de Jubarte, pré-sal da Bacia de Campos, Espírito Santo|100 Mbpd de óleo e 5 MMm³/d de gás natural|Ciclo combinado na geração de energia, Flare Gas Recovery Unit (FGRU)|

@@ -1,7 +1,5 @@
-|Indicador|1º Semestre 2023|1º Semestre 2024|Variação|
-|---|---|---|---|
-|Intensidade Energética|105,1 pontos|104,1 pontos|-1,0 ponto|
-
-|Produto|Conteúdo Renovável|
-|---|---|
-|VLS B24|24% de biodiesel|
+|Resultados Operacionais|1º Semestre 2024|1º Semestre 2023|
+|---|---|---|
+|Intensidade Energética das Refinarias|104,1 pontos|105,1 pontos|
+|Autorização ANP para Combustível Marítimo|Sim|Não|
+|Conteúdo de Biodiesel no Bunker|24%|N/A|

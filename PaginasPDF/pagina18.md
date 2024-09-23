@@ -1,12 +1,6 @@
-|Company|Stock Symbol|
-|---|---|
-|Petrobras|PETR|
-|Petrobras|PBR|
-|Petrobras|PBRA|
-|Xpbra|XPBRA|
-|LaBEX|XpBR|
-|LaTBEX| |
-|PATRIA AMADA| |
-|BRASIL| |
-|LISTED N2 WSE|XPBRA|
-|XPBR| |
+|Petrobras|Relações com Investidores| | | | | |
+|---|---|---|---|---|---|---|
+|BR|.petrobras.com.br/riPETROBRAS| | | | | |
+|PETR|PBR|PBRA|Xpbra|LaBEX|XpBR|LaTBEX|
+|PATRIA AMADA|BRASIL| | | | | |
+|83 LISTED N2 WSE|XPBRA|XPBR| | | | |

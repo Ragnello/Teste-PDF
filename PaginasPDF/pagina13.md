@@ -1,4 +1,3 @@
-**ANEXO II - EXPORTAÇÃO E IMPORTAÇÃO LÍQUIDA**
 |Mil barris por dia (Mbpd)|2T24|1T24|2T23|1S24|1S23|2T24 X 1T24|2T24 X 2T23|1S24 X 1S23|
 |---|---|---|---|---|---|---|---|---|
 |Exportação (importação) líquida|547|504|268|525|394|8.5|104.1|33.2|
@@ -14,10 +13,9 @@
 |Óleo Combustível|137|165|177|151|155|(17.0)|(22.6)|(2.6)|
 |Outros derivados|63|33|38|48|30|90.9|65.8|60.0|
 
-**ANEXO III - EXPORTAÇÕES DE PETRÓLEO***
 |País|2T24|1T24|2T23|
 |---|---|---|---|
 |China|50%|46%|28%|
 |Europa|30%|31%|20%|
-|Am Latina|5%|6%|26%|
+|América Latina|5%|6%|26%|
 |EUA|5%|7%|14%|
